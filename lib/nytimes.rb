@@ -1,4 +1,5 @@
 require 'awesome_print'
+#
 
 class Nytimes
   DATA = {
